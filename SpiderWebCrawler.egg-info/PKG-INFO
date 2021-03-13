@@ -1,0 +1,25 @@
+Metadata-Version: 2.1
+Name: SpiderWebCrawler
+Version: 0.0.1
+Summary: Automatically Scrape Websites
+Home-page: https://upload.pypi.org/legacy/
+Author: Lucas Phillips
+Author-email: Luchcubs23@gmail.com
+License: MIT
+Description: SpiderWebCrawler is a library to automatically complete web-scraping related tasks such as:
+        =================================
+        finding element(s) by class or ID, 
+        finding elements by XPATH, 
+        finding tables, paragraphs, headers, footers, headings, images, etc., 
+        finding images' source, 
+        finding and returning images!
+        ----------------------------------
+        
+Keywords: webscraper
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
