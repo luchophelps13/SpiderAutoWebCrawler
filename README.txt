@@ -7,7 +7,7 @@ finding images' source,
 finding and returning images!
 ----------------------------------
 
-**Tutorial On Installation and Setup!!**:
+Tutorial On Installation and Setup!!:
 
 1. Install SpiderWebCrawler using pip ➜ "pip install SpiderWebCrawler" or "pip install SpiderWebCrawler==0.0.1" (use !pip if you are on Google Colab)
 2. "From SWC import AutoWebScraper" AutoWebScraper is a class that you will create an instance of.
